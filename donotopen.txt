@@ -1,0 +1,10 @@
+email: maythecforcebewithyou@gmail.com
+email pw: CForceM@il
+git pw: CForceG1t
+raspberry pw: CForceP1
+
+general stuff:
+use "ping raspberrypi.local" to find IP address needed for SSH
+linksys IP: 192.168.1.140
+sydney hotspot IP: 172.20.10.7 (usually)
+
