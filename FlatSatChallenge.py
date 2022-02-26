@@ -1,7 +1,7 @@
 #complete CAPITALIZED sections
 
-#AUTHOR: 
-#DATE:
+#AUTHOR: audi, olivia, sydney
+#DATE: 2/25-26/2022
 
 #import libraries
 import time
@@ -35,24 +35,29 @@ def git_push():
 
     
 #SET THRESHOLD
-threshold = 
+threshold = .5
 
-
+timeStamp = -1
 #read acceleration
 while True:
     accelX, accelY, accelZ = sensor.acceleration
-
+    timeStamp = timeStamp + 1
+    if timeStamp % 100 == 0:
+        print(f"accelX: {accelX}, accelY: {accelY}, accelZ: {accelZ}")
     #CHECK IF READINGS ARE ABOVE THRESHOLD
+
+    if accelX > threshold or accelY > threshold or accelZ > threshold:
+        #print("accelX>threshold")
+        
         #PAUSE
 
-    
         #TAKE/SAVE/UPLOAD A PICTURE 
-        name = ""     #Last Name, First Initial  ex. FoxJ
+        name = "ForceC"     #Last Name, First Initial  ex. FoxJ
         
         if name:
             t = time.strftime("_%H%M%S")      # current time string
-            imgname = ('/home/pi/FlatSatChallenge/Images/YOURFOLDER/%s%s' % (name,t)) #change directory to your folder
-    
+            imgname = ('/home/pi/cforce-flatsat/%s%s.jpg' % (name,t)) #change directory to your folder
+            camera.capture(imgname)
             #<YOUR CODE GOES HERE>#
             
     
