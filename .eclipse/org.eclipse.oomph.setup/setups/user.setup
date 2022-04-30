@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:User
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0"
+    name="audil">
+  <acceptedLicense>DEFAULT_LICENSE Marker to remember license pre-prompting</acceptedLicense>
+  <acceptedLicense>6a3d083ad2bd7d3a80ee293235f8c5b1 Eclipse Foundation Software User Agreement</acceptedLicense>
+  <acceptedLicense>abc76a6cc9d06e4684ff61ed74a972c Eclipse Foundation Software User Agreement</acceptedLicense>
+  <acceptedLicense>8d3137b6d090b6860d1b977a88ceb334 Eclipse Foundation Software User Agreement</acceptedLicense>
+  <acceptedLicense>be4a7d94b4e1903e628a3001859739a8 Eclipse Foundation Software User Agreement</acceptedLicense>
+  <acceptedLicense>84f0b7f0a433c033764dd28540d6d199 Eclipse Foundation Software User Agreement</acceptedLicense>
+  <acceptedCertificate>T5y7Fh6UH0KcgshSpLscHxs36JA= CN=&quot;Eclipse Foundation, Inc.&quot;, OU=Java Software Code Signing, O=Sun Microsystems Inc</acceptedCertificate>
+  <acceptedCertificate>GRIR6SdtaLnfYMFIp3cuVnBtIpA= CN=JCE Code Signing CA, OU=Java Software Code Signing, O=Sun Microsystems Inc, L=Palo Alto, ST=CA, C=US</acceptedCertificate>
+</setup:User>

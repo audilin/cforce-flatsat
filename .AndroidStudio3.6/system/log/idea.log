@@ -1,0 +1,313 @@
+2020-04-23 18:58:19,395 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-04-23 18:58:19,441 [     46]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-192.7142.36.36.6392135, 13 Apr 2020 19:52) 
+2020-04-23 18:58:19,441 [     46]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2020-04-23 18:58:19,441 [     46]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_212-release-1586-b04 (JetBrains s.r.o) 
+2020-04-23 18:58:19,441 [     46]   INFO -        #com.intellij.idea.Main - JVM: 25.212-b04 (OpenJDK 64-Bit Server VM) 
+2020-04-23 18:58:19,442 [     47]   INFO -        #com.intellij.idea.Main - JVM Args: exit -Xms256m -Xmx1280m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Djna.nosys=true -Djna.boot.library.path= -da -Djb.vmOptionsFile=C:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Djava.library.path=C:\Program Files\Android\Android Studio\jre\jre\bin;C:\Program Files\Android\Android Studio\jre\jre\bin\server -Didea.platform.prefix=AndroidStudio -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=AndroidStudio3.6 -XX:ErrorFile=C:\Users\audil\java_error_in_studio_%p.log -XX:HeapDumpPath=C:\Users\audil\java_error_in_studio.hprof 
+2020-04-23 18:58:19,443 [     48]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Android\Android Studio\jre\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2020-04-23 18:58:19,443 [     48]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1252 file=Cp1252 
+2020-04-23 18:58:19,479 [     84]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 65 ms 
+2020-04-23 18:58:19,483 [     88]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2020-04-23 18:58:19,502 [    107]   INFO - plication.impl.ApplicationImpl - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@606b9de5[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@38beb15b 
+2020-04-23 18:58:42,837 [  23442]   INFO - tellij.diagnostic.LoadingPhase - Reached SPLASH loading phase 
+2020-04-23 18:58:43,116 [  23721]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2020-04-23 18:58:43,118 [  23723]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-detection-groovy.xml 
+2020-04-23 18:58:43,196 [  23801]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor profiler-java.xml 
+2020-04-23 18:58:43,333 [  23938]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android APK Support (1.0), Android Games (1.0), Android NDK Support (1.0), Android Support (10.3.6.3), App Links Assistant (0.1), ChangeReminder (192.7142.36.36.6392135), Configuration Script (192.7142.36.36.6392135), Copyright (192.7142.36.36.6392135), Coverage (192.7142.36.36.6392135), EditorConfig (192.7142.36.36.6392135), Firebase App Indexing (0.1), Firebase Services (0.1), Firebase Testing (1.0), Git (192.7142.36.36.6392135), GitHub (192.7142.36.36.6392135), Google Cloud Tools Core (0.2.8), Google Cloud Tools For Android Studio (0.2.8), Google Developers Samples (0.3.1), Google Login (1.0), Google Services (0.1), Gradle (192.7142.36.36.6392135), Groovy (192.7142.36.36.6392135), IDEA CORE (192.7142.36.36.6392135), IntelliLang (192.7142.36.36.6392135), JUnit (192.7142.36.36.6392135), Java (192.7142.36.36.6392135), Java Bytecode Decompiler (192.7142.36.36.6392135), Java IDE Customization (192.7142.36.36.6392135), Java Internationalization (192.7142.36.36.6392135), Java Stream Debugger (192.7142.36.36.6392135), Kotlin (1.3.71-release-Studio3.6-1), Layoutlib Standard (1.0), Mercurial (192.7142.36.36.6392135), Properties (192.7142.36.36.6392135), Settings Repository (192.7142.36.36.6392135), Shell Script (192.7142.36.36.6392135), Smali Support (192.7142.36.36.6392135), Subversion (192.7142.36.36.6392135), Task Management (192.7142.36.36.6392135), Terminal (192.7142.36.36.6392135), Test Recorder (1.0), TestNG (192.7142.36.36.6392135), TextMate bundles (192.7142.36.36.6392135), YAML (192.7142.36.36.6392135) 
+2020-04-23 18:58:44,062 [  24667]   INFO - tellij.diagnostic.LoadingPhase - Reached CONFIGURATION_STORE_INITIALIZED loading phase 
+2020-04-23 18:58:44,141 [  24746]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\audil\.AndroidStudio3.6\system\caches\names.dat' does not exist 
+2020-04-23 18:58:44,145 [  24750]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1217 
+2020-04-23 18:58:44,198 [  24803]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\Android\Android Studio\bin\fsnotifier64.exe 
+2020-04-23 18:58:44,229 [  24834]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-04-23 18:58:44,630 [  25235]   INFO - rnal.statistic.DeviceIdManager - Generating new Device ID 
+2020-04-23 18:58:44,634 [  25239]   INFO - eventLog.EventLogConfiguration - Generating salt for the device 
+2020-04-23 18:58:44,758 [  25363]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2020-04-23 18:58:44,758 [  25363]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2020-04-23 18:58:45,120 [  25725]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-04-23 18:58:45,196 [  25801]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2020-04-23 18:58:45,537 [  26142]   INFO - il.indexing.FileBasedIndexImpl - File index extensions iterated:156 
+2020-04-23 18:58:45,906 [  26511]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:Properties,KNM,XML,CLASS,LLDBCommands,KJSM,DGM File Type,HTML,Kotlin,GDBCommands,Groovy,kotlin_builtins,JAVA 
+2020-04-23 18:58:46,711 [  27316]   INFO - pl$FileIndexDataInitialization - Initialization done:1329 
+2020-04-23 18:58:47,065 [  27670]   INFO - exImpl$StubIndexInitialization - Initialization done:354 
+2020-04-23 18:58:50,264 [  30869]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=1.0; restored: fontSize=13, fontScale=1.0 
+2020-04-23 18:58:50,910 [  31515]   INFO - j.ide.ui.OptionsTopHitProvider - 12 ms spent to cache options in application 
+2020-04-23 18:58:50,937 [  31542]   INFO - tellij.diagnostic.LoadingPhase - Reached FRAME_SHOWN loading phase 
+2020-04-23 18:58:52,152 [  32757]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2020-04-23 18:58:53,206 [  33811]   INFO - artup.AndroidStudioInitializer - Failed to disable 'org.intellij.plugins.intelliLang.inject.groovy.GrConcatenationInjector' 
+2020-04-23 18:58:53,699 [  34304]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2020-04-23 18:58:54,516 [  35121]   INFO - dk.ClangTidyInspectionProvider - Clang-tidy inspection is enabled.} 
+2020-04-23 18:58:55,182 [  35787]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 18:58:55,259 [  35864]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 18:58:55,584 [  36189]   WARN - ugins.textmate.TextMateService - Missing builtin bundles, checked: 
+C:/Users/audil/.AndroidStudio3.6/config/plugins/textmate/lib/bundles
+C:/Program Files/Android/Android Studio/plugins/textmate/lib/bundles 
+2020-04-23 18:58:55,823 [  36428]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 342ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-04-23 18:58:56,061 [  36666]   INFO - ge.ExternalProjectsDataStorage - Load external projects data in 14 millis (read time: 2) 
+2020-04-23 18:58:56,630 [  37235]   INFO - j.ide.ui.OptionsTopHitProvider - 1039 ms spent to cache options in project 
+2020-04-23 18:58:56,712 [  37317]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 1402ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2020-04-23 18:58:56,982 [  37587]   INFO - tartup.impl.StartupManagerImpl - C:/Users/audil/Downloads/Know-Your-Rental-Rights2/.idea case-sensitivity: expected=false actual=false 
+2020-04-23 18:58:57,041 [  37646]   INFO - tellij.diagnostic.LoadingPhase - Reached PROJECT_OPENED loading phase 
+2020-04-23 18:58:57,078 [  37683]   INFO - pl.projectlevelman.NewMappings - Mapped Roots: 1 
+2020-04-23 18:58:57,540 [  38145]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 5878 ms 
+2020-04-23 18:58:57,709 [  38314]   INFO - .changes.ChangeListManagerImpl - Cannot identify version of git executable git.exe 
+com.intellij.openapi.vcs.VcsException: Cannot identify version of git executable git.exe
+	at git4idea.status.GitChangeProvider.getChanges(GitChangeProvider.java:112)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.actualUpdate(ChangeListManagerImpl.java:716)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.iterateScopes(ChangeListManagerImpl.java:629)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.lambda$updateImmediately$13(ChangeListManagerImpl.java:536)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:169)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:591)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:537)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:59)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:156)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.updateImmediately(ChangeListManagerImpl.java:497)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.lambda$new$0(ChangeListManagerImpl.java:145)
+	at com.intellij.openapi.vcs.changes.UpdateRequestsQueue$MyRunnable.run(UpdateRequestsQueue.java:226)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:224)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:207)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$100(BoundedTaskExecutor.java:29)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.lambda$run$0(BoundedTaskExecutor.java:185)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:208)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:181)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: git4idea.config.GitVersionIdentificationException: Cannot identify version of git executable git.exe
+	at git4idea.config.GitExecutableManager.identifyVersion(GitExecutableManager.java:169)
+	at git4idea.commands.GitImplBase.run(GitImplBase.java:122)
+	at git4idea.commands.GitImplBase.runCommand(GitImplBase.java:46)
+	at git4idea.commands.GitImpl.runCommand(GitImpl.java:41)
+	at git4idea.status.GitChangesCollector.collectChanges(GitChangesCollector.java:182)
+	at git4idea.status.GitChangesCollector.<init>(GitChangesCollector.java:98)
+	at git4idea.status.GitChangesCollector.collect(GitChangesCollector.java:71)
+	at git4idea.status.GitChangeProvider.getChanges(GitChangeProvider.java:82)
+	... 22 more
+Caused by: java.nio.file.NoSuchFileException: git.exe
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53)
+	at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:195)
+	at java.nio.file.Files.readAttributes(Files.java:1737)
+	at java.nio.file.Files.getLastModifiedTime(Files.java:2266)
+	at git4idea.config.CachingFileTester.getResultForFile(CachingFileTester.java:48)
+	at git4idea.config.GitExecutableManager.identifyVersion(GitExecutableManager.java:167)
+	... 29 more
+2020-04-23 18:58:58,511 [  39116]   INFO - WindowsPerformanceHintsChecker - Windows Defender status: NONE_EXCLUDED; projectDirExcluded? false 
+2020-04-23 18:58:59,153 [  39758]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3328ms; general responsiveness: ok; EDT responsiveness: 2/4 sluggish 
+2020-04-23 18:58:59,157 [  39762]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 24071 files to update 
+2020-04-23 18:59:00,953 [  41558]   INFO - ssistant.WhatsNewBundleCreator - Remote WNA config file not found 
+java.io.FileNotFoundException: https://developer.android.com/studio/releases/assistant/3.6.3.xml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1890)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:263)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.downloadConfig(WhatsNewBundleCreator.java:250)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.updateConfig(WhatsNewBundleCreator.java:238)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.getBundle(WhatsNewBundleCreator.java:125)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.getBundle(WhatsNewBundleCreator.java:46)
+	at com.android.tools.idea.assistant.AssistantGetBundleTask.run(AssistantGetBundleTask.kt:18)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:894)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:169)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:591)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:537)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:59)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:156)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:408)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:294)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-23 18:59:02,045 [  42650]   INFO - ings.impl.UpdateCheckerService - channel: release 
+2020-04-23 18:59:03,978 [  44583]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 18:59:04,595 [  45200]   WARN - llij.ide.plugins.PluginManager - Cucumber for Groovy not loaded: until build 192.7142.36 < AI-192.7142.36.36.6392135 
+2020-04-23 18:59:04,603 [  45208]   WARN - llij.ide.plugins.PluginManager - Rookout not loaded: until build 192.7142.36 < AI-192.7142.36.36.6392135 
+2020-04-23 18:59:04,647 [  45252]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-04-23 18:59:04,885 [  45490]   INFO - dea.updater.SdkComponentSource - File C:\Users\audil\.android\repositories.cfg could not be loaded. 
+2020-04-23 18:59:04,892 [  45497]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-04-23 18:59:04,893 [  45498]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-04-23 18:59:04,895 [  45500]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-04-23 18:59:04,895 [  45500]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-04-23 18:59:04,896 [  45501]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-04-23 18:59:04,897 [  45502]   INFO - dea.updater.SdkComponentSource - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2020-04-23 18:59:04,897 [  45502]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-04-23 18:59:04,898 [  45503]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-04-23 18:59:04,898 [  45503]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-04-23 18:59:04,898 [  45503]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-04-23 18:59:04,899 [  45504]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-04-23 18:59:04,899 [  45504]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-04-23 18:59:08,487 [  49092]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 9330ms; general responsiveness: ok; EDT responsiveness: 0/9 sluggish, 2/9 very slow 
+2020-04-23 18:59:08,497 [  49102]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 6 ms 
+2020-04-23 18:59:08,498 [  49103]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 18:59:08,506 [  49111]   INFO -       #com.jetbrains.cidr.lang - Building symbols in FAST mode, 0 source files from total 0 project files 
+2020-04-23 18:59:08,721 [  49326]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 224 ms 
+2020-04-23 18:59:08,725 [  49330]   INFO -       #com.jetbrains.cidr.lang - Loading Header Maps finished in 4 ms 
+2020-04-23 18:59:08,741 [  49346]   INFO -       #com.jetbrains.cidr.lang - Loading Module Maps finished in 15 ms 
+2020-04-23 18:59:08,741 [  49346]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 module maps in 0 packs for 0 search roots 
+2020-04-23 18:59:08,742 [  49347]   INFO -       #com.jetbrains.cidr.lang - Saved 0 module maps in 0 packs 
+2020-04-23 18:59:08,743 [  49348]   INFO -       #com.jetbrains.cidr.lang - Saving Module Maps finished in 1 ms 
+2020-04-23 18:59:08,743 [  49348]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 tables for 0 files (0 project files) 
+2020-04-23 18:59:08,743 [  49348]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 source files 
+2020-04-23 18:59:08,751 [  49356]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 unused headers 
+2020-04-23 18:59:08,753 [  49358]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 10 ms 
+2020-04-23 18:59:08,754 [  49359]   INFO -       #com.jetbrains.cidr.lang - Saving modified symbols for 0 files (0 tables of total 0) 
+2020-04-23 18:59:08,756 [  49361]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 2 ms 
+2020-04-23 18:59:08,758 [  49363]   INFO - tellij.diagnostic.LoadingPhase - Reached INDEXING_FINISHED loading phase 
+2020-04-23 18:59:09,133 [  49738]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 18:59:09,505 [  50110]   INFO - CompilerWorkspaceConfiguration - Available processors: 8 
+2020-04-23 19:01:33,743 [ 194348]   INFO - e.project.sync.GradleSyncState - Started single-variant sync with Gradle for project 'Know Your Rental Rights'. 
+2020-04-23 19:01:33,752 [ 194357]   WARN - e.project.sync.GradleSyncState - Gradle sync failed: Failed to sync SDKs (9 ms) 
+2020-04-23 19:01:33,847 [ 194452]   INFO - roid.tools.ndk.GradleWorkspace - Updating model took 0.058s 
+2020-04-23 19:01:34,731 [ 195336]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:34,963 [ 195568]  ERROR - l.BuildProcessClasspathManager - Cannot add 'layoutlib-api.jar' from 'Android Support 10.3.6.3' to compiler classpath 
+java.lang.Throwable: Cannot add 'layoutlib-api.jar' from 'Android Support 10.3.6.3' to compiler classpath
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:149)
+	at com.intellij.compiler.server.impl.BuildProcessClasspathManager.computeCompileServerPluginsClasspath(BuildProcessClasspathManager.java:121)
+	at com.intellij.compiler.server.impl.BuildProcessClasspathManager.getStaticClasspath(BuildProcessClasspathManager.java:49)
+	at com.intellij.compiler.server.impl.BuildProcessClasspathManager.getBuildProcessPluginsClasspath(BuildProcessClasspathManager.java:35)
+	at com.intellij.compiler.server.BuildManager.launchBuildProcess(BuildManager.java:1247)
+	at com.intellij.compiler.server.BuildManager.lambda$null$10(BuildManager.java:814)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:207)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$100(BoundedTaskExecutor.java:29)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.lambda$run$0(BoundedTaskExecutor.java:185)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:208)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:181)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-23 19:01:34,964 [ 195569]  ERROR - l.BuildProcessClasspathManager - Android Studio 3.6.3  Build #AI-192.7142.36.36.6392135 
+2020-04-23 19:01:34,964 [ 195569]  ERROR - l.BuildProcessClasspathManager - JDK: 1.8.0_212-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2020-04-23 19:01:34,964 [ 195569]  ERROR - l.BuildProcessClasspathManager - OS: Windows 10 
+2020-04-23 19:01:34,971 [ 195576]  ERROR - l.BuildProcessClasspathManager - Last Action:  
+2020-04-23 19:01:34,971 [ 195576]  ERROR - l.BuildProcessClasspathManager - Cannot add 'layoutlib-api.jar' from 'Android Support 10.3.6.3' to compiler classpath 
+com.intellij.openapi.diagnostic.Logger$EmptyThrowable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:151)
+	at com.intellij.compiler.server.impl.BuildProcessClasspathManager.computeCompileServerPluginsClasspath(BuildProcessClasspathManager.java:121)
+	at com.intellij.compiler.server.impl.BuildProcessClasspathManager.getStaticClasspath(BuildProcessClasspathManager.java:49)
+	at com.intellij.compiler.server.impl.BuildProcessClasspathManager.getBuildProcessPluginsClasspath(BuildProcessClasspathManager.java:35)
+	at com.intellij.compiler.server.BuildManager.launchBuildProcess(BuildManager.java:1247)
+	at com.intellij.compiler.server.BuildManager.lambda$null$10(BuildManager.java:814)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:207)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$100(BoundedTaskExecutor.java:29)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.lambda$run$0(BoundedTaskExecutor.java:185)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:208)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:181)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-23 19:01:34,972 [ 195577]  ERROR - l.BuildProcessClasspathManager - Android Studio 3.6.3  Build #AI-192.7142.36.36.6392135 
+2020-04-23 19:01:34,972 [ 195577]  ERROR - l.BuildProcessClasspathManager - JDK: 1.8.0_212-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2020-04-23 19:01:34,972 [ 195577]  ERROR - l.BuildProcessClasspathManager - OS: Windows 10 
+2020-04-23 19:01:34,972 [ 195577]  ERROR - l.BuildProcessClasspathManager - Last Action:  
+2020-04-23 19:01:35,182 [ 195787]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:35,286 [ 195891]   INFO - .changes.ChangeListManagerImpl - Cannot identify version of git executable git.exe 
+com.intellij.openapi.vcs.VcsException: Cannot identify version of git executable git.exe
+	at git4idea.status.GitChangeProvider.getChanges(GitChangeProvider.java:112)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.actualUpdate(ChangeListManagerImpl.java:716)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.iterateScopes(ChangeListManagerImpl.java:629)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.lambda$updateImmediately$13(ChangeListManagerImpl.java:536)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:169)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:591)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:537)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:59)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:156)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.updateImmediately(ChangeListManagerImpl.java:497)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.lambda$new$0(ChangeListManagerImpl.java:145)
+	at com.intellij.openapi.vcs.changes.UpdateRequestsQueue$MyRunnable.run(UpdateRequestsQueue.java:226)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:224)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:207)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$100(BoundedTaskExecutor.java:29)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.lambda$run$0(BoundedTaskExecutor.java:185)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:208)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:181)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: git4idea.config.GitVersionIdentificationException: Cannot identify version of git executable git.exe
+	at git4idea.config.GitExecutableManager.identifyVersion(GitExecutableManager.java:169)
+	at git4idea.commands.GitImplBase.run(GitImplBase.java:122)
+	at git4idea.commands.GitImplBase.runCommand(GitImplBase.java:46)
+	at git4idea.commands.GitImpl.runCommand(GitImpl.java:41)
+	at git4idea.status.GitChangesCollector.collectChanges(GitChangesCollector.java:182)
+	at git4idea.status.GitChangesCollector.<init>(GitChangesCollector.java:98)
+	at git4idea.status.GitChangesCollector.collect(GitChangesCollector.java:71)
+	at git4idea.status.GitChangeProvider.getChanges(GitChangeProvider.java:82)
+	... 22 more
+Caused by: java.nio.file.NoSuchFileException: git.exe
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53)
+	at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:195)
+	at java.nio.file.Files.readAttributes(Files.java:1737)
+	at java.nio.file.Files.getLastModifiedTime(Files.java:2266)
+	at git4idea.config.CachingFileTester.getResultForFile(CachingFileTester.java:48)
+	at git4idea.config.GitExecutableManager.identifyVersion(GitExecutableManager.java:167)
+	... 29 more
+2020-04-23 19:01:35,507 [ 196112]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/Android/Android Studio/plugins/java/lib/jps-launcher.jar;C:/Program Files/Android/Android Studio/jre/lib/tools.jar 
+2020-04-23 19:01:36,176 [ 196781]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:36,676 [ 197281]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:37,059 [ 197664]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/Android/Android Studio/plugins/java/lib/jps-launcher.jar;C:/Program Files/Android/Android Studio/jre/lib/tools.jar 
+2020-04-23 19:01:37,179 [ 197784]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:37,681 [ 198286]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:38,181 [ 198786]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:46,192 [ 206797]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:46,698 [ 207303]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:55,707 [ 216312]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:01:56,211 [ 216816]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:05,291 [ 225896]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:08,753 [ 229358]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:09,227 [ 229832]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:09,729 [ 230334]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:12,420 [ 233025]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:12,732 [ 233337]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:13,234 [ 233839]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:14,243 [ 234848]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:14,737 [ 235342]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:15,239 [ 235844]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:16,234 [ 236839]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2020-04-23 19:02:16,240 [ 236845]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:16,739 [ 237344]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:17,242 [ 237847]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:17,743 [ 238348]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:18,244 [ 238849]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:18,748 [ 239353]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:21,751 [ 242356]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:22,251 [ 242856]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:22,753 [ 243358]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:23,253 [ 243858]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:24,756 [ 245361]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:25,272 [ 245877]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:25,758 [ 246363]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:02:26,011 [ 246616]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 12 ms 
+2020-04-23 19:02:26,067 [ 246672]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 186 ms 
+2020-04-23 19:03:05,371 [ 285976]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:04:12,435 [ 353040]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:04:12,923 [ 353528]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-04-23 19:04:14,534 [ 355139]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.core.script.configuration.utils.ScriptClassRootsStorage 
+2020-04-23 19:04:14,563 [ 355168]   INFO - rationStore.ComponentStoreImpl - Saving Project 'C:\Users\audil\Downloads\Know-Your-Rental-Rights2' Know Your Rental RightsXDebuggerManager took 17 ms 
+2020-04-23 19:04:14,634 [ 355239]   WARN - .impl.LineStatusTrackerManager - Tracker for is being held on dispose by com.intellij.openapi.editor.impl.EditorImpl@1048f1ed 
+2020-04-23 19:04:14,634 [ 355239]   WARN - .impl.LineStatusTrackerManager - Tracker for is being held on dispose by com.intellij.openapi.editor.impl.EditorImpl@5291a943 
+2020-04-23 19:04:15,102 [ 355707]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2020-04-23 19:04:15,103 [ 355708]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2020-04-23 19:04:15,103 [ 355708]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2020-04-23 19:04:15,179 [ 355784]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2020-04-23 19:04:15,194 [ 355799]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-04-23 19:04:15,195 [ 355800]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 93 auto-detected files
+Elapsed time on auto-detect: 2261 ms 
+2020-04-23 19:04:15,200 [ 355805]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2020-04-23 19:04:15,200 [ 355805]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2020-04-23 19:04:15,208 [ 355813]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2020-04-23 19:04:15,211 [ 355816]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2020-04-23 19:04:15,215 [ 355820]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

@@ -1,0 +1,19 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@144dpi" x="960" y="450" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@144dpi" x="504" y="275" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@144dpi" x="632" y="173" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@144dpi" x="144" y="23" />
+    <location key="#run.0.0.1920.1080@144dpi" x="612" y="11" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080@144dpi" x="474" y="89" />
+    <location key="IDE.errors.dialog.0.0.1920.1080@144dpi" x="332" y="143" />
+    <location key="SettingsEditor.0.0.1920.1080@144dpi" x="0" y="3" />
+    <location key="search.everywhere.popup.0.0.1920.1080@144dpi" x="455" y="62" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1853" height="161" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1853" height="161" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1853" height="161" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1853" height="161" />
+    <size key="SettingsEditor.0.0.1920.1080@144dpi" width="1169" height="1074" />
+    <size key="search.everywhere.popup.0.0.1920.1080@144dpi" width="1008" height="1017" />
+  </component>
+</application>

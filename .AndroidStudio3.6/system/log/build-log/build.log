@@ -1,0 +1,46 @@
+2020-04-23 19:01:35,508 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-04-23 19:01:35,508 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/Android/Android Studio/plugins/java/lib/jps-launcher.jar;C:/Program Files/Android/Android Studio/jre/lib/tools.jar
+2020-04-23 19:01:35,966 [    458]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 408 ms
+2020-04-23 19:01:36,146 [    638]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/audil/Downloads/Know-Your-Rental-Rights2, global options path = C:/Users/audil/.AndroidStudio3.6/config/options
+2020-04-23 19:01:36,382 [    874]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 236 ms
+2020-04-23 19:01:36,383 [    875]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-04-23 19:01:36,467 [    959]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2020-04-23 19:01:36,619 [   1111]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:true
+2020-04-23 19:01:36,622 [   1114]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-04-23 19:01:36,622 [   1114]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-04-23 19:01:36,629 [   1121]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-04-23 19:01:36,637 [   1129]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2020-04-23 19:01:36,682 [   1174]   INFO - rains.jps.cmdline.BuildSession - com/google/wireless/android/sdk/stats/IntellijIndexingStats$Index
+java.lang.NoClassDefFoundError: com/google/wireless/android/sdk/stats/IntellijIndexingStats$Index
+	at com.intellij.util.indexing.counters.IndexCounters.<clinit>(IndexCounters.java:34)
+	at com.intellij.util.indexing.impl.MapReduceIndex.<init>(MapReduceIndex.java:94)
+	at com.intellij.util.indexing.impl.MapReduceIndex.<init>(MapReduceIndex.java:110)
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex$CompilerMapReduceIndex.<init>(CompilerReferenceIndex.java:248)
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.<init>(CompilerReferenceIndex.java:84)
+	at org.jetbrains.jps.backwardRefs.JavaCompilerBackwardReferenceIndex.<init>(JavaCompilerBackwardReferenceIndex.java:12)
+	at org.jetbrains.jps.backwardRefs.JavaBackwardReferenceIndexWriter.initialize(JavaBackwardReferenceIndexWriter.java:80)
+	at org.jetbrains.jps.incremental.java.JavaBuilder.buildStarted(JavaBuilder.java:149)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.runBuild(IncProjectBuilder.java:359)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.build(IncProjectBuilder.java:178)
+	at org.jetbrains.jps.cmdline.BuildRunner.runBuild(BuildRunner.java:139)
+	at org.jetbrains.jps.cmdline.BuildSession.runBuild(BuildSession.java:288)
+	at org.jetbrains.jps.cmdline.BuildSession.run(BuildSession.java:121)
+	at org.jetbrains.jps.cmdline.BuildMain$MyMessageHandler.lambda$channelRead0$0(BuildMain.java:228)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: com.google.wireless.android.sdk.stats.IntellijIndexingStats$Index
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 17 more
+2020-04-23 19:01:37,060 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-04-23 19:01:37,061 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/Android/Android Studio/plugins/java/lib/jps-launcher.jar;C:/Program Files/Android/Android Studio/jre/lib/tools.jar
+2020-04-23 19:01:37,421 [    361]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 312 ms
+2020-04-23 19:01:37,431 [    371]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-04-23 19:01:37,460 [    400]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/audil/Downloads/Know-Your-Rental-Rights2, global options path = C:/Users/audil/.AndroidStudio3.6/config/options
+2020-04-23 19:01:37,629 [    569]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 169 ms
+2020-04-23 19:01:37,629 [    569]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-04-23 19:01:37,686 [    626]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2020-04-23 19:01:37,779 [    719]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 720 ms
+2020-04-23 19:04:14,601 [ 157541]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

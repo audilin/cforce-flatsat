@@ -1,0 +1,3 @@
+C:\Users\audil\anaconda3
+C:\Users\audil\anaconda3\envs\snowflakes
+C:\Users\audil\anaconda3\envs\snakes
